@@ -1,0 +1,5 @@
+The following fixes need to be made to the ecommerce2 site
+1. Create an absolute path for all links right before we go live
+   Where to check:
+   i.   All files in includes folder
+   ii.  All files in views
